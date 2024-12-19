@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1984-1987</title>
+    <style>
+        body {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #0059b3;
+            color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0059b3;
+        }
+        #info {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+        <center><h1><FONT FACE="calibri" p style="color:#ffffff;"><font size="7">ALUMNOS</h1></center></FONT></font></p>
+<br>
+<br>
+
+<div>
+
+        <table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aburto Álvarez Cesar</h2>
+            <img src="Captura de pantalla 2024-09-27 094801.png"width="200">
+            <br>
+            <br>
+            <button onclick="">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Aguilar González Alma Delia</h2>
+            <img src="Captura de pantalla_15-11-2024_17223_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aguilar Ramírez David</h2>
+            <img src="Captura de pantalla_15-11-2024_172220_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ambriz Peñaloza Audel</h2>
+            <img src="Captura de pantalla_15-11-2024_172340_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Bastida García Salvador</h2>
+            <img src="Captura de pantalla_15-11-2024_172355_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Belman Ramírez Rosalba</h2>
+            <img src="Captura de pantalla_15-11-2024_172411_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Caballero Perez Marcial</h2>
+            <img src="Captura de pantalla_15-11-2024_172427_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Colima Marín María Leticia</h2>
+            <img src="Captura de pantalla_15-11-2024_172440_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Cortes Fraga María del Rocïo</h2>
+            <img src="Captura de pantalla_15-11-2024_172458_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Cruz Bastida Margarita</h2>
+            <img src="Captura de pantalla_15-11-2024_172514_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Delgado Gómez María Guadalupe</h2>
+            <img src="Captura de pantalla_15-11-2024_172527_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Gallegos Cervantes Yessenia</h2>
+            <img src="Captura de pantalla_15-11-2024_172554_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>González Cornejo Patricia</h2>
+            <img src="Captura de pantalla_15-11-2024_172540_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>González Díaz José Noé</h2>
+            <img src="Gonzales Barajas Juan Sergio.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Gómez Perez Margarita</h2>
+            <img src="Captura de pantalla_15-11-2024_173131_.jpeg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Gutiérrez García Alberto Gabriel</h2>
+            <img src="gonzalez punzo veronica.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Guzmán Gutiérrez María Soledad</h2>
+            <img src="hernandez ayala alva aurora.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Hurtado Pineda Carlos</h2>
+            <img src="jimenez valencia sonia brenda .png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Jiménez de la Rosa Méndez Rosaura Ireri</h2>
+            <img src="imagenes/1984-1987/Jiménez Valencia Sonia Brenda.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Jiménez Guzmán Nora Emma</h2>
+            <img src="lopez murillo gilberto .png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Lule Rivera Aida</h2>
+            <img src="magaña diaz jafet .png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Mandujano Ramírez Marcos</h2>
+            <img src="medina frausto hondira .png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Mandujano Ramírez Rita</h2>
+            <img src="miranda Moreno Ricardo .png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Mondragón Reyes Leticia</h2>
+            <img src="moreno segovia irma .png"width="250">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Muñoz García Esmeralda del Carmen</h2>
+            <img src="imagenes/1984-1987/Murillo Rodríguez Sandra Leticia.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    
+
+            <td  width=10%= align="center"><p><h2>Navarrete Guzmán Blanca Aida</h2>
+            <img src="ornelas bonillas.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <tbody>
+            <td  width=10% align="center"><p><h2>Ortega Reynoso Araceli Lourdes</h2>
+            <img src="imagenes/1984-1987/Pérez Chávez Tais del Socorro.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Paredes García Mario</h2>
+            <img src="imagenes/1984-1987/Quezada Aguilar Rossana.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Pérez Castro Urania María</h2>
+            <img src="imagenes/1984-1987/Rodríguez Cornejo María de Lourdes.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Rangel Chávez Dacia</h2>
+            <img src="imagenes/1984-1987/Rodríguez Zarco Zandra.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Salinas Pedraza Alejandro</h2>
+            <img src="imagenes/1984-1987/Rojas González Ma. Enriqueta Marbella.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Sandoval Aguilar José</h2>
+            <img src="imagenes/1984-1987/Sarco Arredondo Crescenciano.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Saucedo Zarco Francisco</h2>
+            <img src="imagenes/1984-1987/Talavera Díaz Gildardo.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Sereno Juárez José</h2>
+            <img src="imagenes/1984-1987/Trejo Tapia Adelfa.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<td  width=10%= align="center"><p><h2></h2>
+    <img src="imagenes/1984-1987/Trejo Tapia Adelfa.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+</table>
+</div>
+
+<button onclick="window.open('pagina principal.html');">Regresar</button>
+
+
+

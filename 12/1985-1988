@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1985-1988</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #info {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+        <center><h1><FONT FACE="calibri" p style="color:#000fa4;"><font size="7">ALUMNOS</h1></center></FONT></font></p>
+<br>
+<br>
+
+<div>
+
+        <table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aburto Aguilar José Angel </h2>
+            <img src="E:\FOTOS 2\ABURTO AGUILAR .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Aburto%20Aguilar%20Jos%C3%A9%20Angel%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Aburto Galván Miguel Angel </h2>
+            <img src="E:\FOTOS 2\ABURTO GALVAN.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Aburto%20Galvan%20Miguel%20A%CC%81ngel.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aburto Santos María Teresa</h2>
+            <img src="E:\FOTOS 2\CHAVEZ GAONA.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Cha%CC%81vez%20Gaona%20Mari%CC%81a%20de%20Jesu%CC%81s.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ambriz López Francisco</h2>
+            <img src="E:\FOTOS 2\CONTRERAS CEDEÑO.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open ('file:///E:/PDFS%202/Contreras%20Ceden%CC%83o%20Gerardo.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Arreola Avila María Berenice</h2>
+            <img src="E:\FOTOS 2\CONTRERAS GUZMAN .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Contreras%20Guzm%C3%A1n%20Hilda.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Cevantes Domínguez Angélica</h2>
+            <img src="E:\FOTOS 2\GARCIA GAONA.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Garci%CC%81a%20Gaona%20Ricardo.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Chávez Gaona María de Jesús</h2>
+            <img src="E:\FOTOS 2\GONZALEZ PONCE .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Gonza%CC%81lez%20Ponce%20Juan%20Manuel.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Contreras Guzmán Hilda</h2>
+            <img src="E:\FOTOS 2\GILLEN SPINDOLA .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Guillen%20Spindola%20Francisco%20Javier.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Espinoza Gutiérrez Maribel</h2>
+            <img src="E:\FOTOS 2\GUZMAN GUTIEEREZ .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Guzm%C3%A1n%20Guti%C3%A9rrez%20Ver%C3%B3nica%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>García Gaona Ricardo</h2>
+            <img src="E:\FOTOS 2\LOPEZ RODRIGUEZ .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Lo%CC%81pez%20Rodri%CC%81guez%20Araceli.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>González Guido Raúl</h2>
+            <img src="E:\FOTOS 2\OLOPEZ VALDOVINOS.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Lopez%20Valdovinos%20Margarita%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>González Ponce Juan Manuel </h2>
+            <img src="E:\FOTOS 2\MARTINEZ ORTEGA.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Martines%20Ortega%20Maria%20Patrisia.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%  align = "center"><p><h2>Guillen Spindola Francisco Javier </h2>
+            <img src="E:\FOTOS 2\ORNELAS GARCIA .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Ornelas%20Garc%C3%ADa%20Mar%C3%ADa%20Sonia%20.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Guzmán Gutiérrez Verónica</h2>
+            <img src="E:\FOTOS 2\ORTEGA GARCIA .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Ortega%20Garci%CC%81a%20Marco%20Favio.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Heredia Calderon Verónica</h2>
+            <img src="E:\FOTOS 2\RENTERIA CHAVEZ.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Renteria%20Chavez%20Graciela%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Herrera Hernández Vicente</h2>
+            <img src="E:\FOTOS 2\ROJAS RAMIEREZ.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Rojas%20Ram%C3%ADrez%20Mar%C3%ADa%20Del%20Roc%C3%ADo%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Herrera Rodríguez Marco Antonio </h2>
+            <img src="E:\FOTOS 2\TORRES MURILLO.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Felipe%20de%20Jes%C3%BAs%20Torres%20Murillo%20.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Jiménez Guzmán Abel</h2>
+            <img src="E:\FOTOS 2\TORRES RAMIRES  MARINEL .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Torres%20Rami%CC%81rez%20Marinel.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>López Rodríguez Araceli </h2>
+            <img src="E:\FOTOS 2\TORRES REYNOSO.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Torres%20Reinosa%20Letisia.pdf', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>López Valdovinos Margarita</h2>
+            <img src="E:\FOTOS 2\VALDOVINOS MADRIGAL MARIA .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Martínez Gaitan María de la Luz </h2>
+            <img src="E:\FOTOS 2\VALDOVINO MADRIGAL .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Martínez Ortega  María Patricia</h2>
+            <img src="E:\FOTOS 2\VERA ROJO CAPRICANIO .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align ="center"><p><h2>Marín Ramírez Juan  </h2>
+            <img src="E:\FOTOS 2\VILLA NUEVA QUEVEDO CONSTANTINO .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file :   ///E:/PDFS%202/Villanuevo%20Quevedo%20Constantino.pdf', '_blank');">Ver información</button>
+            <br>
+            <br> 
+
+            <td  width=10% align="center"><p><h2>Moreno Nuñez Bulmaro</h2>
+            <img src="E:\FOTOS 2\ABURTO SANTOS.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///E:/PDFS%202/Aburto%20Santos%20Mar%C3%ADa%20Teresa%20.pdf, '_blank'); >Ver información</button>
+            <br>
+            <br>
+    </table>
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Ornelas García María Sonia</h2>
+            <img src="E:\FOTOS 2\ARREOLA AVILA.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ortega García Ernestina Eneida</h2>
+            <img src="E:\FOTOS 2\AMBRIS LOPEZ.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%align="center"><p><h2>Ortega García Marco Favio </h2>
+            <img src="E:\FOTOS 2\CERVANTES DOMINGUEZ.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ortiz Toledo Teresa</h2>
+            <img src="E:\FOTOS 2\ESPINOZA GUTIERREZ.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% lign="center"><p><h2>Pérez Salazar Héctor Manuel </h2>
+            <img src="E:\FOTOS 2\GONZALEZ GUIDO .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file: ///E:/PDFS%202/Gonsales%20Guido%20Raul.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ramírez Rojas Xóchitl</h2>
+            <img src="E:\FOTOS 2\HEEREDIA CALDERON.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% lign="center"><p><h2>Renteria Chávez Graciela </h2>
+            <img src="E:\FOTOS 2\HERRERA HERNADEZ .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Rodríguez Arreola Laura María Asunción </h2>
+            <img src="E:\FOTOS 2\HERRERA RODRIGUEZ .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%align="center"><p><h2>Rodríguez Villa Juan Carlos</h2>
+            <img src="E:\FOTOS 2\MARTINEZ GAITAN .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Martines%20Gaitan%20Maria%20de%20la%20Luz.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+   <td  width=10%alignn=center"><p><h2>Rojas Ramírez María del Rocío</h2>
+            <img src="E:\FOTOS 2\MARIN RAMIREZ .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Salinas Pedraza Juan Gerardo</h2>
+            <img src="E:\FOTOS 2\ORTIZ TOLEDO .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Ortiz%20Toledo%20Teresa%20.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Santos Guillen Guillermo </h2>
+            <img src="E:\FOTOS 2\PEREZ SALAZAR.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Santoyo Olvera María América</h2>
+            <img src="E:\FOTOS 2\RAMIRES ROJAS .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Soria Aviles Martha Esthela</h2>
+            <img src="E:\FOTOS 2\RODRIGUEZ ARREOLA.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Torres Murillo Felipe de Jesús </h2>
+            <img src="E:\FOTOS 2\RODRIGUEZ VILLA.jpg "width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Rodr%C3%ADguez%20Villa%20Juan%20Carlos.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Torres Ramírez Julio César</h2>
+            <img src="E:\FOTOS 2\SALINAS PEDRAZA .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Salinas%20Pedraza%20Juan%20Gerardo%20.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Torres Ramírez Marinel </h2>
+            <img src="E:\FOTOS 2\SANTOS GUILLEN .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Santos%20Guillen%20Guillermo.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Torres Reynoso Leticia </h2>
+            <img src="E:\FOTOS 2\SANTOYO.jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Santoyo%20Olvera%20Mari%CC%81a%20Ame%CC%81rica.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Valdovinos Madrigal María Elena </h2>
+            <img src="E:\FOTOS 2\SORIA AVILES .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Soria%20Aviles%20Martha%20Esthela.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Valdovinos Madrigal María Guadalupe</h2>
+            <img src="E:\FOTOS 2\TORRES RAMIRES .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Torres%20Rami%CC%81rez%20Julio%20Ce%CC%81sar.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10% align="center"><p><h2>Vera Rojo Capricanio </h2>
+            <img src="E:\FOTOS 2\ZARCO ARREDONDO ROGELIO .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="window.open(''file:///E:/PDFS%202/Zarco%20Arredondo%20Rogelio%20.pdf, '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Villanueva Quevedo Constantino</h2>
+            <img src="imagenes/.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('file:///C:/Users/luism/OneDrive/Escritorio/pagina%20principal.html', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+    <td  width=10% align="center"><p><h2>Zarco Arredondo Rogelio</h2>
+        <img src="imagenes/.png"width="200">
+        <br>
+        <br>
+        <button onclick="window.open('file:///C:/Users/luism/OneDrive/Escritorio/pagina%20principal.html', '_blank');">Ver información</button>
+        <br>
+        <br>
+</table>

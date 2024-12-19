@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1984-1987</title>
+    <style>
+        body {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #0059b3;
+            color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0059b3;
+        }
+        #info {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+        <center><h1><FONT FACE="calibri" p style="color:#ffffff;"><font size="7">ALUMNOS</h1></center></FONT></font></p>
+<br>
+<br>
+
+<div>
+
+        <table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aburto Alvarez Cesar</h2>
+            <img src="ABURTO AGUILAR .jpg"width="200">
+            <br>
+            <br>
+            <button onclick="file:///D:/proyecto/Archivos%20pdf/1984-1987/Aburto%20D%C3%ADaz%20Francisco%20Javier.pdf">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Aguilar González Alma Delia</h2>
+            <img src="imagenes/1984-1987/Aguilar Rauda José Fernando.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Aguilar Ramírez David</h2>
+            <img src="imagenes/1984-1987/Álvarez Avila Norma.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Ambriz Peñalosa Audel</h2>
+            <img src="imagenes/1984-1987/Becerra Ponce Maricela.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Bastida García Salvador </h2>
+            <img src="imagenes/1984-1987/Caballero Pérez Laura Isela.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Belman Ramírez Rosalba</h2>
+            <img src="imagenes/1984-1987/Chávez Nieto Marcela.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Caballero Perez Marcial</h2>
+            <img src="imagenes/1984-1987/Chávez Ornelas Gudelia.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Colima Marín María Leticia </h2>
+            <img src="imagenes/1984-1987/Contreras Hurtado Enrique.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Cortes Fraga María del Rocío</h2>
+            <img src="imagenes/1984-1987/Cornejo Sánchez Norma.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Cruz Bastida Margarita</h2>
+            <img src="imagenes/1984-1987/Delgado Gómez Margarita.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Delgado Gómez María Guadalupe</h2>
+            <img src="imagenes/1984-1987/Echeverría Ornelas María Faustina.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Gallegos Cervantes Yessenia</h2>
+            <img src="imagenes/1984-1987/García Gaona Ignacio Enrique.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>González Cornejo Patricia</h2>
+            <img src="imagenes/1984-1987/Gaona Segovia Salvador.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>González Díaz José Noé</h2>
+            <img src="imagenes/1984-1987/González Barajas Juan Sergio.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Gómez Perez Margarita</h2>
+            <img src="imagenes/1984-1987/González Díaz José Alfredo.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Gútierrez García Alberto Gabriel</h2>
+            <img src="imagenes/1984-1987/González Punzo Verónica.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Guzmán Gutiérrez María Soledad</h2>
+            <img src="imagenes/1984-1987/Hernández Ayala Alva Aurora.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Hurtado Pineda Carlos</h2>
+            <img src="imagenes/1984-1987/Jiménez de la Rosa Méndez Consuelo de la Luz.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Jiménez de la Rosa Méndez Rosaura Ireri </h2>
+            <img src="imagenes/1984-1987/Jiménez Valencia Sonia Brenda.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Jiménez Guzmán Nora Emma</h2>
+            <img src="imagenes/1984-1987/López Murillo Gilberto.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>  Lule Rivera Aida</h2>
+            <img src="imagenes/1984-1987/Magaña Díaz Jafet.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Mandujano Ramírez Marcos</h2>
+            <img src="imagenes/1984-1987/Medina Frausto Honoria.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Mandujano Ramírez Rita</h2>
+            <img src="imagenes/1984-1987/Miranda Moreno Ricardo.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+
+            <td  width=10% align="center"><p><h2>Mondragón Reyes Leticia</h2>
+            <img src="imagenes/1984-1987/Moreno Segovia Irma.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+
+
+
+<table width=100% border="1" align="center">
+    <tbody>
+            <td  width=10%= align="center"><p><h2>Muñoz García Esmeralda del Carmen</h2>
+            <img src="imagenes/1984-1987/Murillo Rodríguez Sandra Leticia.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    
+
+            <td  width=10%= align="center"><p><h2>Navarrete Guzmán Blanca Aida</h2>
+            <img src="imagenes/1984-1987/Murillo Rodríguez Sandra Leticia.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <tbody>
+            <td  width=10% align="center"><p><h2>Ortega Reynoso Araceli Lourdes</h2>
+            <img src="imagenes/1984-1987/Pérez Chávez Tais del Socorro.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Paredes García Mario</h2>
+            <img src="imagenes/1984-1987/Quezada Aguilar Rossana.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Pérez Castro Urania María</h2>
+            <img src="imagenes/1984-1987/Rodríguez Cornejo María de Lourdes.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Rangel Chávez Dacia</h2>
+            <img src="imagenes/1984-1987/Rodríguez Zarco Zandra.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Salinas Pedraza Alejandro</h2>
+            <img src="imagenes/1984-1987/Rojas González Ma. Enriqueta Marbella.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Sandoval Aguilar José</h2>
+            <img src="imagenes/1984-1987/Sarco Arredondo Crescenciano.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            </table>
+        </div>
+        <table width=100% border="1" align="center">
+            <body>
+            <td  width=10% align="center"><p><h2>Saucedo Zarco Francisco</h2>
+            <img src="imagenes/1984-1987/Talavera Díaz Gildardo.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+            <td  width=10%= align="center"><p><h2>Sereno Juárez José</h2>
+            <img src="imagenes/1984-1987/Trejo Tapia Adelfa.png"width="200">
+            <br>
+            <br>
+            <button onclick="window.open('', '_blank');">Ver información</button>
+            <br>
+            <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <body>
+    <td  width=10% align="center"><p><h2>Torres Ramírez Carlos Alberto</h2></p>
+    <img src="imagenes/1984-1987/Rojas González Ma. Enriqueta Marbella.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    <td  width=10%= align="center"><h2>Torres Ramírez Guadaluppe Sandra</h2>
+    <img src="imagenes/1984-1987/Sarco Arredondo Crescenciano.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <body>
+    <td  width=10% align="center"><p><h2>Vargas Alejandre María Delia</h2>
+    <img src="imagenes/1984-1987/Rojas González Ma. Enriqueta Marbella.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    <td  width=10%= align="center"><p><h2>Villaseñor Aguilar María Auxilio</h2>
+    <img src="imagenes/1984-1987/Sarco Arredondo Crescenciano.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    </table>
+</div>
+<table width=100% border="1" align="center">
+    <body>
+    <td  width=10% align="center"><p><h2>Villaseñor Almanza Olga Nuri</h2>
+    <img src="imagenes/1984-1987/Rojas González Ma. Enriqueta Marbella.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    <td  width=10%= align="center"><p><h2>Villaseñor Cardona Araceli</h2>
+    <img src="imagenes/1984-1987/Sarco Arredondo Crescenciano.png"width="200">
+    <br>
+    <br>
+    <button onclick="window.open('', '_blank');">Ver información</button>
+    <br>
+    <br>
+    </table>
+</div>
+
+
